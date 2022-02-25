@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the knights, gentlemen, freeholders, and others the inhabitants of the county and city of York, presented to the honourable House of Commons now assembled in Parliament wherein (inter alia) they humbly offer to billet and mayntain at their own charge 300 of their horse, and 3000 of their trained bands within their owne shire for three moneths, if the Parliament shall think fit : subscribed by the Lord Major and Aldermen of York, by the high Sheriff and very many knights, esquires, and gentlemen of good quality : with the manner of their taking the protestation, before they subscribed the petition.</title>
+            <author>Yorkshire (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54548</idno>
+            <idno type="STC">Wing P1807A</idno>
+            <idno type="STC">ESTC R1670</idno>
+            <idno type="EEBO-CITATION">11876291</idno>
+            <idno type="OCLC">ocm 11876291</idno>
+            <idno type="VID">50262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 505:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the knights, gentlemen, freeholders, and others the inhabitants of the county and city of York, presented to the honourable House of Commons now assembled in Parliament wherein (inter alia) they humbly offer to billet and mayntain at their own charge 300 of their horse, and 3000 of their trained bands within their owne shire for three moneths, if the Parliament shall think fit : subscribed by the Lord Major and Aldermen of York, by the high Sheriff and very many knights, esquires, and gentlemen of good quality : with the manner of their taking the protestation, before they subscribed the petition.</title>
+                  <author>Yorkshire (England)</author>
+                  <author>York (England)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Franke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Yorkshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50262:1"/>
+            <pb facs="tcp:50262:1" rendition="simple:additions"/>
+            <p>THE PETITION Of the Knights, Gentlemen, Free<g ref="char:EOLhyphen"/>holders, and others the Inhabitants of the County and City of <hi>York,</hi> preſented to the Honorable Houſe of Commons now aſſembled in Parliament.</p>
+            <p>Wherein (<hi>inter alia</hi>)<lb/> They humbly offer to Billet and mayntain at their own charge 300 of their Horſe, and 3000 of their Trained Bands within their owne Shire of three Moneths, if the Parliament ſhall think fit.</p>
+            <p>Subſcribed by the Lord Major and Aldermen of <hi>York,</hi> By the high Sheriff and very many Knights, Eſquires, and Gentlemen of good quality.</p>
+            <p>With the manner of their taking the <hi>Proteſtation,</hi> before they ſubſcribed the <hi>Petition.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Franke,</hi> and are to be ſold at his Shop next doore to the Kings Head in Fleetſtreet, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:50262:2"/>
+            <pb n="1" facs="tcp:50262:2"/>
+            <head>To the Honourable the Knights, Citizens, and Burgeſſes aſſembled in Parliament, <hi>The humble Petition of the Knights, Gentlemen, Free<g ref="char:EOLhyphen"/>holders, and other the Inhabitants in the County and Citie of</hi> Yorke,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners do with all than fulneſſe acknowledge and reſent the benefit of thoſe good Lawes which you have already provided for us, as moſt ſeaſona<g ref="char:EOLhyphen"/>ble and precious fruits of your pious and prudent conſultations, As alſo of that moſt happy and re-united Peace betwixt us and <hi>Scotland,</hi> our Neigh<g ref="char:EOLhyphen"/>bour Nation, and the bleſſed care you have lately taken both to relieve our diſtreſſed Brethren in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and to put the Town of <hi>Hull</hi> (the chief ſtrength of our County) into ſuch an hand, as for his integri<g ref="char:EOLhyphen"/>ty wee have good cauſe to conſide in; As alſo to
+<pb n="2" facs="tcp:50262:3"/>purge the Houſe of Peeres of the Prelats votes (a mayne obſtruction to your happy undertakings) And having received ſo much refreſhment from you in our ſo important Concernments, do take boldneſſe to repreſent our humble requeſts.</p>
+            <p>That your pious care for the further reliefe of our diſtreſſed Brethren in <hi>Ireland,</hi> may be conti<g ref="char:EOLhyphen"/>nued, and your wiſe reſolutions thereupon put into ſpeedy execution.</p>
+            <p>That this whole Kingdome may ſpeedily be put into a Military poſture of Defence both by Sea and Land.</p>
+            <p>That the Compoſition of Recuſants (with which his Majeſty reſts ſatisfied) being paid, the reſidue of their lands and goods forfeited by the Statute may be diſpoſed of, aſwell for the ſafety of defenſible Ports and places in this Kingdome, as alſo for ſet<g ref="char:EOLhyphen"/>ling and mayntaining neceſſary Guards over the hou<g ref="char:EOLhyphen"/>ſes of papiſts and popiſhly affected perſons.</p>
+            <p>That the Oaths of Allegiance and Supremaci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be impartially and ſpeedily tendred to all pa<g ref="char:EOLhyphen"/>piſts and popiſhly affected perſons whatſoever, ac<g ref="char:EOLhyphen"/>cording to the Statute in that caſe provided.</p>
+            <p>That the Laws againſt Prieſts and Ieſuits may be fully executed, and that ſome preſent courſe may be directed for the diſarming and confining of papiſts to their owne houſes, or elſe that ſome of the princi<g ref="char:EOLhyphen"/>all &amp; moſt dangerous ſpirits of them in every Coun<g ref="char:EOLhyphen"/>ty may be as caution for the peaceable deportment of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt confined to the cuſtody of truſty perſons in ſome places of ſafety, if to your wiſdoms it ſhall ſeem meet. And th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be deputed for theſe ſervices as a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not to be ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pected to uſe any forbea<g ref="char:EOLhyphen"/>rance
+<pb n="3" facs="tcp:50262:3"/>therein. As alſo that ſuch as are convicted Re<g ref="char:EOLhyphen"/>cuſants, ſome ſpeedy courſe may be taken againſt them, either by the preſent Laws in force, or other<g ref="char:EOLhyphen"/>wiſe as ſhall ſeem beſt to your wiſdoms, that they may not be left ſo full handed, and ſo readily prepa<g ref="char:EOLhyphen"/>red upon all occaſions to manage either their owne, or the Deſignes of others, to our ſo eminent and con<g ref="char:EOLhyphen"/>tinuall danger.</p>
+            <p>That the Votes of popiſh Peeres and others com<g ref="char:EOLhyphen"/>ming in by proxie, being ſo apparant a Grievance may be redreſſed, which are found not only prejudi<g ref="char:EOLhyphen"/>ciall to the wiſeſt reſults of your conſultations, but alſo affords them liberty and opportunity to act and encourage the promoting the popiſh Cauſe in the Kingdome.</p>
+            <p>And becauſe that to the making of a more ſucceſ<g ref="char:EOLhyphen"/>full paſſage to the accompliſhment of all theſe our ſo important concernments, it will be eſpecially a<g ref="char:EOLhyphen"/>vailable, that matters in Religion be chiefly regar<g ref="char:EOLhyphen"/>ded: We therefore humbly deſire that all ſuch im<g ref="char:EOLhyphen"/>pediments as may hinder the progreſſe thereof may be removed.</p>
+            <p>Amongſt which wee ranke in the firſt place ſcan<g ref="char:EOLhyphen"/>dalous Miniſters, as alſo places unprovided of ſuch maintenance as is competent for perſons of better endowments. Humbly beſeeching that for the reme<g ref="char:EOLhyphen"/>dy of both theſe, you will be pleaſed to purſue your former pious intentions, as alſo that Ceremoniall burdens may be removed, and religion ſetled in ſuch a way, that ſuch as make all conſcience obe<g ref="char:EOLhyphen"/>diently to ſubmit to Magiſtracie and civill authori<g ref="char:EOLhyphen"/>tie in every degree and latitude of it, both ſupreme and ſubordinate may not ſuffer under any penaltie
+<pb n="4" facs="tcp:50262:4"/>meerely and only for conſcience ſake.</p>
+            <p>And foraſmuch as theſe our Counties have under<g ref="char:EOLhyphen"/>gone very great damage by the billeted ſouldiers which now they are leſſe able to ſuſteine then be<g ref="char:EOLhyphen"/>fore, by reaſon of the Manufactury trades of our Countrey daily decaying, which we viſibly diſcern not only tending much to the preſent impoveriſh<g ref="char:EOLhyphen"/>ing of a great number of Families, whoſe mainte<g ref="char:EOLhyphen"/>nance and livelihood hath beene hitherto wholly ſupported upon that Foundation, which being not prevented may prove to bee of dangerous Conſe<g ref="char:EOLhyphen"/>quence, but alſo to the weakening of the eſtates of Farmers and others, becauſe the benefit of Woolls and other Commodities of our Countrey do much depend upon the proſpering of theſe foreſaid Trades of Manufacture: Wee therefore humbly deſire that you would be pleaſed to direct ſuch Courſe, where<g ref="char:EOLhyphen"/>by conſiderable ſatisfaction may be made (for what reſts unpaid) to ſuch of our Countries as have been by the ſaid billeted ſouldies thus en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ammaged.</p>
+            <p>That this Honourable Houſe would bee pleaſed to move the well affected Lords, and they and you both joyne in ſupplication to his Majeſty, that his Majeſty would diſcover, and nominate who thoſe evill Councellours were that adviſed to thoſe unparalall'd breaches of the prviledges of Parlia<g ref="char:EOLhyphen"/>ment in charching thoſe worthy members in ſo ille<g ref="char:EOLhyphen"/>gall a way, and that were any occaſion ſo long to remorate the reliefe of our diſtreſſed brethren in <hi>Ireland,</hi> to the end they may be brought to condigne puniſhment: And in caſe his Majeſty ſhall not de<g ref="char:EOLhyphen"/>clare who they be, that then you your ſelves would be pleaſed to endevour to find out and declare who
+<pb n="5" facs="tcp:50262:4"/>in your judgement have beene the Contrivers and Fomentors of thoſe evill counſels.</p>
+            <p>And being confidently aſſured of your re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dineſſe to anſwer our deſires, as in other things, ſo eſpecial<g ref="char:EOLhyphen"/>ly to further the Military poſture of the Kingdome, we humbly tender it to your conſideration, that for the ſpeedy ſafetie of our owne Countrey, both againſt any homebred Commotion or forraigne in<g ref="char:EOLhyphen"/>vaſion, we are ready and willing at our owne charge for three Moneths next enſuing to maintaine and billet three hundred of our bond of Horſe, and three thouſand of our private Train-bond of foot, in ſome moſt convenient places of the ſeverall Ridings of our ſaid County (concerning which we have more particularly expreſſed our intendments in a ſche<g ref="char:EOLhyphen"/>dule hereunto annexed) to be in readineſſe upon all occaſions, if in your wiſedomes it ſhall be approved of: And if ſo our moſt humble deſire is, the way may receive Countenance and confirmation by ſome Order from your honourable Houſe.</p>
+            <p>And laſtly, that ſuch things may be archieved as are worthy of the excellent wiſedomes and painfull labours of ſuch noble inſtruments, whom unto our great rejoycing of heart wee evidently diſcerne to be for faithfully and indefatigably ſtudious for the publique weale of this Nation: Wee therefore for the better accompliſhment of your Honourable en<g ref="char:EOLhyphen"/>devours, and for our more compleat enjoyment of the precious fruits thereof, Moſt humbly deſire that the high Court of Parliament of the infringement of the liberties whereof we are very ſenſible, &amp; which in all your juſt and honourable wayes wee ſhall be ready to our utmoſt abilities to aſſiſt againſt the ene<g ref="char:EOLhyphen"/>mies
+<pb n="6" facs="tcp:50262:5"/>of God, the King &amp; State) may in all the power and prviledges of it be inviolably maintained.</p>
+            <closer>And your Petitioners ſhall daily pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>Subſcribed by
+<list>
+                  <item>Sir <hi>Tho. Gower</hi> Sherife.</item>
+                  <item>Sir <hi>Math. Boynton.</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Farrefaxe.</hi>
+                  </item>
+                  <item>Sir <hi>Io. Bourchier.</hi>
+                  </item>
+                  <item>Sir <hi>William Fairefaxe.</hi>
+                  </item>
+                  <item>Sir <hi>Jo. Ramſden.</hi>
+                  </item>
+                  <item>Sir <hi>Arthur Robinſon.</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Gower</hi> ſenior.</item>
+                  <item>Sir <hi>Hugh Bethell.</hi>
+                  </item>
+                  <item>Sir <hi>Jo. Savile.</hi>
+                  </item>
+                  <item>Sir <hi>Marmaduke Langdale.</hi>
+                  </item>
+                  <item>Sir <hi>Edward Rodes.</hi>
+                  </item>
+                  <item>Sir <hi>Richard Darlye.</hi>
+                  </item>
+                  <item>Sir <hi>Jo. Goodricke, &amp; ali. Mil.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And by 50. Eſquires, and divers Gentlemen, and others of qualitie, and by <hi>Edmund Cooper,</hi> Lord Major of the City of <hi>Yorke,</hi> and by the Alder<g ref="char:EOLhyphen"/>men of that City.</p>
+            <p>Before the ſubſcription to which Petition the High Sherife firſt tooke the Proteſtation, and all the Knights and Gentlemen in order after him, and af<g ref="char:EOLhyphen"/>terwards agreed, (if the dangers increaſed, and the Parliament ſo approved thereof) to Muſter 3000. Foot, and 300. Horſe, to be kept for ſix weekes in ſuch parts of that County as might moſt conduce for the ſafetie thereof, and ſent the propoſition thereof unto the Parliament by <hi>Hen. Bethell</hi> Eſquire, who was employed by that County to preſent this Petition to the houſe of Commons, and two more, one to his Majeſtie, and another to the Houſe of Peeres.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50262:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
